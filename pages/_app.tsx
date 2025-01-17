@@ -1,8 +1,12 @@
-import '../styles/globals.css'
-import type { AppProps } from 'next/app'
+import "../styles/globals.css";
+import Head from "next/head";
+import type { AppProps } from "next/app";
 
 function MyApp({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+  <Head>
+    <link rel="icon" href="/favicon.ico" />
+  </Head>;
+  return <Component {...pageProps} />;
 }
 
-export default MyApp
+export default MyApp;

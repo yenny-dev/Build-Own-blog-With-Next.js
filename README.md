@@ -1,8 +1,33 @@
-## Next.js로 나만의 블로그 만들기 with 정적 생성
+# Yenny-dev
 
-- [블로그 글](https://miryang.dev/blog/build-blog-with-nextjs)
+This blog site is built based on the hands-on session article [Next.js로 나만의 블로그 만들기 with 정적 생성 참고](https://miryang.dev/blog/build-blog-with-nextjs) by Frontend Engineer, [Miryang](https://github.com/MiryangJung)
 
-**Next.js로 나만의 블로그 만들기** 핸즈온 이벤트 참여자 대상으로 작성된 안내서로
-자세한 설명은 핸즈온에서 구두로 합니다.
+---
 
-![](https://miryang.dev/posts/build-blog-with-nextjs/1.gif)
+## Tech
+
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/ko/)
+- [tailwindcss](https://tailwindcss.com/)
+
+## Features
+
+- Static blog built with Next.js.
+- Uses MDX for flexible blog posts.
+- Styled with Tailwind CSS.
+- Basic SEO setup with Next.js.
+
+## What I've learned
+
+- A brief introduction to Next.js.
+- How to use MDX in a project.
+- A simple understanding of SEO.
+- Overview of how the blog is built.
+- How to handle favicon.ico in Next.js projects.
+
+## Future Improvements
+
+- Add light/dark mode toggle feature.
+- Implement a comment section for blog posts.
+- Add search function and analytics.
+- Include a resume section to showcase my professional experiences.

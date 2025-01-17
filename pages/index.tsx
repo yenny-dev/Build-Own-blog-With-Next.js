@@ -1,4 +1,3 @@
-import type { NextPage } from "next";
 import Container from "../components/Container";
 import Image from "next/image";
 import RecentPosts from "../components/RecentPosts";
@@ -12,10 +11,10 @@ const Home = ({ posts }: InferGetStaticPropsType<typeof getStaticProps>) => {
       <div className={`my-5 w-full`}>
         <div className={`relative`}>
           <Image
-            src={`/home.jpg`}
+            src={`/tech_sloth.png`}
             alt="대표 이미지"
             width={`100%`}
-            height={45}
+            height={100}
             layout={`responsive`}
             objectFit="cover"
             className={`rounded-3xl`}
