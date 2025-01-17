@@ -13,8 +13,8 @@ const Home = ({ posts }: InferGetStaticPropsType<typeof getStaticProps>) => {
           <Image
             src={`/tech_sloth.png`}
             alt="대표 이미지"
-            width={`100%`}
-            height={100}
+            width={100}
+            height={50}
             layout={`responsive`}
             objectFit="cover"
             className={`rounded-3xl`}

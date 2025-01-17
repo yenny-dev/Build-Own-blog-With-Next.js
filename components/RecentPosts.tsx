@@ -10,6 +10,7 @@ const RecentPosts = ({ posts }) => {
             key={post._id}
             href={`/blog/${post._raw.flattenedPath}`}
             passHref
+            legacyBehavior
           >
             <a className="mt-5">
               <div className={`font-medium text-xl`}>{post.title}</div>
