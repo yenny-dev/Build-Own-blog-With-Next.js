@@ -1,6 +1,6 @@
 # Yenny-dev
 
-This blog site is built based on the hands-on session article [Next.js로 나만의 블로그 만들기 with 정적 생성 참고](https://miryang.dev/blog/build-blog-with-nextjs) by Frontend Engineer, [Miryang](https://github.com/MiryangJung)
+This blog site is built based on [build-blog-with-nextjs](https://miryang.dev/blog/build-blog-with-nextjs) by Frontend Engineer, [Miryang](https://github.com/MiryangJung)
 
 ---
 
